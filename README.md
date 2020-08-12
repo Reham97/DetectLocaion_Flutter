@@ -16,4 +16,4 @@ pub get
 https://drive.google.com/file/d/11TzwO2ptZzyMAHfhIvZzIBQjiJN5-J5Y/view?usp=sharing
 
 ### Screenshots
-<img src="Demo/pic1.png">
+<img src="Demo/pic1.jpeg">
